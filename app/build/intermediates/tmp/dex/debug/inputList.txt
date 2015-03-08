@@ -1,0 +1,6 @@
+/Users/shyamg/git/googleads-mobile-android-examples-2.2/admob/InterstitialExample/app/build/intermediates/classes/debug
+/Users/shyamg/git/googleads-mobile-android-examples-2.2/admob/InterstitialExample/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-192392c040dca079f9e6d35b735ade77d12b9355.jar
+/Users/shyamg/git/googleads-mobile-android-examples-2.2/admob/InterstitialExample/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-446bd04114b444f0cbb998fb7ddf7d801397a90c.jar
+/Users/shyamg/git/googleads-mobile-android-examples-2.2/admob/InterstitialExample/app/build/intermediates/pre-dexed/debug/classes-b19fae72acdd5b43233c72f3b7aea48038f475bf.jar
+/Users/shyamg/git/googleads-mobile-android-examples-2.2/admob/InterstitialExample/app/build/intermediates/pre-dexed/debug/classes-ded88fb6941ae3549483fb40e00151c895498046.jar
+/Users/shyamg/git/googleads-mobile-android-examples-2.2/admob/InterstitialExample/app/build/intermediates/pre-dexed/debug/classes-1fd5d7b1475132bfb9619dda470e92e619963962.jar
